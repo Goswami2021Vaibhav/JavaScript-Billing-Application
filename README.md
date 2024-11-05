@@ -4,6 +4,6 @@ In this video, we'll build a JavaScript Billing Application from scratch! This p
 
 - Website: [Visit](https://developergoswami.com)
 - Part 1 Video: [Part 1](https://youtu.be/OvQwY7szTDc)
-- Part 2 Video: [Part 2]()
+- Part 2 Video: [Part 2](https://youtu.be/ECDyKy6-M90)
 
  
